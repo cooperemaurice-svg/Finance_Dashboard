@@ -1,0 +1,117 @@
+Date,Description,Amount,Transaction Type,Category,Account
+2026-01-01,Monthly Phone Bill,-65,Expense,Phone,Checking
+2026-01-02,Paycheck,842.18,Income,Employment Income,Checking
+2026-01-02,Roth IRA Contribution,-150,Investment,Roth IRA Contribution,Checking
+2026-01-02,Transfer to High-Yield Savings,-100,Savings,HYSA Contribution,Checking
+2026-01-03,Fuel Purchase,-92.45,Expense,Transportation,Credit Card
+2026-01-05,Groceries,-46.82,Expense,Groceries,Credit Card
+2026-01-08,Dining Purchase,-38.2,Expense,Dining Out,Credit Card
+2026-01-11,Personal Purchase,-27.64,Expense,Personal,Credit Card
+2026-01-14,Fuel Purchase,-55.3,Expense,Transportation,Credit Card
+2026-01-16,Paycheck,861.42,Income,Employment Income,Checking
+2026-01-16,Roth IRA Contribution,-150,Investment,Roth IRA Contribution,Checking
+2026-01-16,Transfer to High-Yield Savings,-100,Savings,HYSA Contribution,Checking
+2026-01-18,Entertainment Subscription,-24.99,Expense,Entertainment,Credit Card
+2026-01-21,Dining Purchase,-18.75,Expense,Dining Out,Credit Card
+2026-01-25,Groceries,-41.16,Expense,Groceries,Credit Card
+2026-01-30,Paycheck,834.76,Income,Employment Income,Checking
+2026-01-30,Roth IRA Contribution,-150,Investment,Roth IRA Contribution,Checking
+2026-01-30,Transfer to High-Yield Savings,-100,Savings,HYSA Contribution,Checking
+2026-02-01,Monthly Phone Bill,-65,Expense,Phone,Checking
+2026-02-03,Fuel Purchase,-88.7,Expense,Transportation,Credit Card
+2026-02-05,Groceries,-51.24,Expense,Groceries,Credit Card
+2026-02-06,Tax Refund,312.45,Income,Other Income,Checking
+2026-02-08,Dining Purchase,-35.9,Expense,Dining Out,Credit Card
+2026-02-11,Personal Purchase,-31.48,Expense,Personal,Credit Card
+2026-02-13,Paycheck,873.1,Income,Employment Income,Checking
+2026-02-13,Roth IRA Contribution,-150,Investment,Roth IRA Contribution,Checking
+2026-02-13,Transfer to High-Yield Savings,-100,Savings,HYSA Contribution,Checking
+2026-02-14,Fuel Purchase,-48.6,Expense,Transportation,Credit Card
+2026-02-18,Entertainment Subscription,-24.99,Expense,Entertainment,Credit Card
+2026-02-21,Dining Purchase,-16.2,Expense,Dining Out,Credit Card
+2026-02-25,Groceries,-44.38,Expense,Groceries,Credit Card
+2026-02-27,Paycheck,856.34,Income,Employment Income,Checking
+2026-02-27,Roth IRA Contribution,-150,Investment,Roth IRA Contribution,Checking
+2026-02-27,Transfer to High-Yield Savings,-100,Savings,HYSA Contribution,Checking
+2026-03-01,Monthly Phone Bill,-65,Expense,Phone,Checking
+2026-03-03,Fuel Purchase,-96.18,Expense,Transportation,Credit Card
+2026-03-05,Groceries,-43.76,Expense,Groceries,Credit Card
+2026-03-08,Dining Purchase,-42.35,Expense,Dining Out,Credit Card
+2026-03-11,Personal Purchase,-29.12,Expense,Personal,Credit Card
+2026-03-13,Paycheck,847.89,Income,Employment Income,Checking
+2026-03-13,Roth IRA Contribution,-150,Investment,Roth IRA Contribution,Checking
+2026-03-13,Transfer to High-Yield Savings,-100,Savings,HYSA Contribution,Checking
+2026-03-14,Fuel Purchase,-61.4,Expense,Transportation,Credit Card
+2026-03-18,Entertainment Subscription,-24.99,Expense,Entertainment,Credit Card
+2026-03-20,School Supplies,-84.32,Expense,Education,Credit Card
+2026-03-21,Dining Purchase,-20.55,Expense,Dining Out,Credit Card
+2026-03-25,Groceries,-39.84,Expense,Groceries,Credit Card
+2026-03-27,Paycheck,882.15,Income,Employment Income,Checking
+2026-03-27,Roth IRA Contribution,-150,Investment,Roth IRA Contribution,Checking
+2026-03-27,Transfer to High-Yield Savings,-100,Savings,HYSA Contribution,Checking
+2026-04-01,Monthly Phone Bill,-65,Expense,Phone,Checking
+2026-04-03,Fuel Purchase,-90.36,Expense,Transportation,Credit Card
+2026-04-05,Groceries,-49.88,Expense,Groceries,Credit Card
+2026-04-08,Dining Purchase,-37.6,Expense,Dining Out,Credit Card
+2026-04-10,Paycheck,858.6,Income,Employment Income,Checking
+2026-04-10,Roth IRA Contribution,-150,Investment,Roth IRA Contribution,Checking
+2026-04-10,Transfer to High-Yield Savings,-100,Savings,HYSA Contribution,Checking
+2026-04-11,Personal Purchase,-33.25,Expense,Personal,Credit Card
+2026-04-14,Fuel Purchase,-53.72,Expense,Transportation,Credit Card
+2026-04-18,Entertainment Subscription,-24.99,Expense,Entertainment,Credit Card
+2026-04-21,Dining Purchase,-15.9,Expense,Dining Out,Credit Card
+2026-04-24,Paycheck,839.47,Income,Employment Income,Checking
+2026-04-24,Roth IRA Contribution,-150,Investment,Roth IRA Contribution,Checking
+2026-04-24,Transfer to High-Yield Savings,-100,Savings,HYSA Contribution,Checking
+2026-04-25,Groceries,-46.27,Expense,Groceries,Credit Card
+2026-05-01,Monthly Phone Bill,-65,Expense,Phone,Checking
+2026-05-03,Fuel Purchase,-101.52,Expense,Transportation,Credit Card
+2026-05-05,Groceries,-54.1,Expense,Groceries,Credit Card
+2026-05-08,Dining Purchase,-40.8,Expense,Dining Out,Credit Card
+2026-05-08,Paycheck,875.22,Income,Employment Income,Checking
+2026-05-08,Roth IRA Contribution,-150,Investment,Roth IRA Contribution,Checking
+2026-05-08,Transfer to High-Yield Savings,-100,Savings,HYSA Contribution,Checking
+2026-05-11,Personal Purchase,-28.75,Expense,Personal,Credit Card
+2026-05-14,Fuel Purchase,-58.36,Expense,Transportation,Credit Card
+2026-05-15,Cash Deposit,75,Income,Other Income,Checking
+2026-05-18,Entertainment Subscription,-24.99,Expense,Entertainment,Credit Card
+2026-05-21,Dining Purchase,-22.4,Expense,Dining Out,Credit Card
+2026-05-22,Paycheck,864.91,Income,Employment Income,Checking
+2026-05-22,Roth IRA Contribution,-150,Investment,Roth IRA Contribution,Checking
+2026-05-22,Transfer to High-Yield Savings,-100,Savings,HYSA Contribution,Checking
+2026-05-25,Groceries,-43.19,Expense,Groceries,Credit Card
+2026-06-01,Monthly Phone Bill,-65,Expense,Phone,Checking
+2026-06-03,Fuel Purchase,-94.25,Expense,Transportation,Credit Card
+2026-06-05,Groceries,-47.36,Expense,Groceries,Credit Card
+2026-06-05,Paycheck,851.36,Income,Employment Income,Checking
+2026-06-05,Roth IRA Contribution,-150,Investment,Roth IRA Contribution,Checking
+2026-06-05,Transfer to High-Yield Savings,-100,Savings,HYSA Contribution,Checking
+2026-06-08,Birthday Gift,150,Income,Gifts Received,Checking
+2026-06-08,Dining Purchase,-36.45,Expense,Dining Out,Credit Card
+2026-06-11,Personal Purchase,-35.18,Expense,Personal,Credit Card
+2026-06-14,Fuel Purchase,-63.9,Expense,Transportation,Credit Card
+2026-06-18,Entertainment Subscription,-24.99,Expense,Entertainment,Credit Card
+2026-06-19,Paycheck,889.04,Income,Employment Income,Checking
+2026-06-19,Roth IRA Contribution,-150,Investment,Roth IRA Contribution,Checking
+2026-06-19,Transfer to High-Yield Savings,-100,Savings,HYSA Contribution,Checking
+2026-06-21,Dining Purchase,-19.8,Expense,Dining Out,Credit Card
+2026-06-25,Groceries,-48.62,Expense,Groceries,Credit Card
+2026-07-01,Monthly Phone Bill,-65,Expense,Phone,Checking
+2026-07-03,Fuel Purchase,-98.84,Expense,Transportation,Credit Card
+2026-07-03,Paycheck,846.73,Income,Employment Income,Checking
+2026-07-03,Roth IRA Contribution,-150,Investment,Roth IRA Contribution,Checking
+2026-07-03,Transfer to High-Yield Savings,-100,Savings,HYSA Contribution,Checking
+2026-07-05,Groceries,-52.68,Expense,Groceries,Credit Card
+2026-07-08,Dining Purchase,-44.2,Expense,Dining Out,Credit Card
+2026-07-10,Car Maintenance,-176.8,Expense,Transportation,Credit Card
+2026-07-11,Personal Purchase,-30.56,Expense,Personal,Credit Card
+2026-07-14,Fuel Purchase,-59.45,Expense,Transportation,Credit Card
+2026-07-17,Paycheck,871.58,Income,Employment Income,Checking
+2026-07-17,Roth IRA Contribution,-150,Investment,Roth IRA Contribution,Checking
+2026-07-17,Transfer to High-Yield Savings,-100,Savings,HYSA Contribution,Checking
+2026-07-18,Entertainment Subscription,-24.99,Expense,Entertainment,Credit Card
+2026-07-21,Dining Purchase,-21.35,Expense,Dining Out,Credit Card
+2026-07-25,Groceries,-45.73,Expense,Groceries,Credit Card
+2026-07-31,Paycheck,857.2,Income,Employment Income,Checking
+2026-07-31,Roth IRA Contribution,-150,Investment,Roth IRA Contribution,Checking
+2026-07-31,Transfer to High-Yield Savings,-100,Savings,HYSA Contribution,Checking
